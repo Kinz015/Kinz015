@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Lins, tenho 21 anos e sou natural de Fortaleza. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
+Me chamo Guilherme Lins, tenho 21 anos e sou natural de Fortaleza. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
 
 <p align="left">
     <a href="https://www.youtube.com/@Kinz015?sub_confirmation=1">
