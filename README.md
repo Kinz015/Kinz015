@@ -5,7 +5,7 @@
 Me chamo Guilherme Lins, tenho 21 anos e sou natural de Fortaleza. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
 
 <p align="left">
-    <a href="https://www.youtube.com/@Kinz015?sub_confirmation=1">
+    <a>
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
