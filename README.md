@@ -108,7 +108,7 @@ Me chamo Guilherme Lins, tenho 21 anos e sou natural de Fortaleza. Atualmente, e
   align="left" 
   alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api?username=Kinz015&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  src="https://github-readme-stats.vercel.app/api?username=Kinz015&show_icons=true&theme=tokyonight&locale=pt-br" 
 />
 
 <img 
