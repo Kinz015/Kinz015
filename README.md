@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Lins, tenho 21 anos e sou natural de Fortaleza. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio.
+Me chamo Guilherme Lins, tenho 21 anos e sou natural de Fortaleza. Sou formado em Análise e Desenvolvimento de Sistemas.
 
 <p align="left">
     <a href="https://github.com/Kinz015?tab=repositories&sort=stargazers">
